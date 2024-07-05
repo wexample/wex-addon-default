@@ -1,5 +1,5 @@
-from wexample_addon_default.const.types import (UPGRADE_TYPE_MINOR)
-from wexample_addon_default.helpers.version import version_increment
+from wexample_wex_addon_default.const.types import (UPGRADE_TYPE_MINOR)
+from wexample_wex_addon_default.helpers.version import version_increment
 
 
 def default__version__increment(
